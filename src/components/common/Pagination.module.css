@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.pageNumber {
+  border: 1px solid;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.pageNumberSelected {
+  background-color: aqua;
+}
+
+.btn {
+  margin: 5px;
+}
+
+.selected {
+  background-color: #7dd3fc;
+}
